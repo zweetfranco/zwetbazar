@@ -1,0 +1,51 @@
+
+
+.titulo-principal{
+    padding-left: 30px;
+}
+
+#vestidor{
+    width: 100% 
+}
+
+.principal{
+    background: #cccccc;
+    padding: 20px;
+}
+
+.titulo-center{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    background: #cccccc;
+}
+
+em strong{
+    color: red
+}
+
+#mision{
+    font-size: 20px;
+}
+
+.items{
+    font-style: italic;
+}
+
+.beneficios{
+    background: #ffffff;
+    padding: 50px;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenBeneficios{
+    width: 50%;
+}
